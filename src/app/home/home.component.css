@@ -1,0 +1,18 @@
+.special
+{
+    background: lightseagreen;
+}
+h1{
+    text-align: center;
+    margin: 40px;
+    color: brown;
+}
+p{
+    text-align: left;
+    margin: 40px;
+    color: rgb(112, 87, 168);
+    width: 50%;
+    height: 20px;
+    font-size: xx-large;
+}
+
